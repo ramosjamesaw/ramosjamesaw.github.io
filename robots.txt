@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://jamesramos-dev.com/sitemap-index.xml
-Host: https://jamesramos-dev.com
+Sitemap: https://jamesramosdev.github.io/sitemap-index.xml
+Host: https://jamesramosdev.github.io
